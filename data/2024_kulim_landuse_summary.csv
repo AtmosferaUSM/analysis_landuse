@@ -1,12 +1,12 @@
 id,dataset_id,gtn1,polygons,area_ha
-1,2,Pertanian,14629,44326.88
-2,2,Hutan,71,18130.32
-3,2,Perumahan,80488,4455.17
-4,2,Pengangkutan,1305,2777.89
-5,2,Tanah Kosong,10128,2485.4
-6,2,Industri,1560,1524.15
-7,2,Badan Air,298,998.51
-8,2,Institusi dan Kemudahan Masyarakat,689,850.96
-9,2,Infrastruktur dan Utiliti,641,496.41
-10,2,Komersial,8356,407.48
-11,2,Tanah Lapang dan Rekreasi,645,357.38
+1,1,Pertanian,14629,44326.88
+2,1,Hutan,71,18130.32
+3,1,Perumahan,80488,4455.17
+4,1,Pengangkutan,1305,2777.89
+5,1,Tanah Kosong,10128,2485.4
+6,1,Industri,1560,1524.15
+7,1,Badan Air,298,998.51
+8,1,Institusi dan Kemudahan Masyarakat,689,850.96
+9,1,Infrastruktur dan Utiliti,641,496.41
+10,1,Komersial,8356,407.48
+11,1,Tanah Lapang dan Rekreasi,645,357.38
