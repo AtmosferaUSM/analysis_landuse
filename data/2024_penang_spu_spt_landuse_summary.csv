@@ -1,14 +1,14 @@
-land_use_class,polygon_count,area_ha,percentage
-Pertanian,23655,19988.59,38.9
-Perumahan,137209,8195.73,15.95
-"Tanah Kosong",12336,5696.97,11.09
-Pengangkutan,1814,4656.95,9.06
-Industri,6841,3107.8,6.05
-"Badan Air",985,2976.78,5.79
-Hutan,751,2013.28,3.92
-"Institusi dan Kemudahan Masyarakat",3806,1938.93,3.77
-Komersial,20714,1319.56,2.57
-"Tanah Lapang dan Rekreasi",2787,809.28,1.58
-"Infrastruktur dan Utiliti",1774,482.84,0.94
-Pantai,35,193.37,0.38
-"Tanah Lapang",1,0.17,0.0
+id,dataset_id,land_use_class,polygon_count,area_ha,percentage
+1,1,Pertanian,23655,19988.59,38.9
+2,1,Perumahan,137209,8195.73,15.95
+3,1,Tanah Kosong,12336,5696.97,11.09
+4,1,Pengangkutan,1814,4656.95,9.06
+5,1,Industri,6841,3107.8,6.05
+6,1,Badan Air,985,2976.78,5.79
+7,1,Hutan,751,2013.28,3.92
+8,1,Institusi dan Kemudahan Masyarakat,3806,1938.93,3.77
+9,1,Komersial,20714,1319.56,2.57
+10,1,Tanah Lapang dan Rekreasi,2787,809.28,1.58
+11,1,Infrastruktur dan Utiliti,1774,482.84,0.94
+12,1,Pantai,35,193.37,0.38
+13,1,Tanah Lapang,1,0.17,0
